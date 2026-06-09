@@ -1,4 +1,4 @@
-const CACHE = 'vault-v1';
+const CACHE = 'vault-v2';
 const ASSETS = [
   '/vault-app/index.html',
   '/vault-app/manifest.json',
